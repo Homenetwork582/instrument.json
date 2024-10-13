@@ -1,0 +1,911 @@
+[
+    {
+        "assetClass": "Stocks",
+        "name": "3M Co",
+        "link": "https://www.investing.com/equities/3m-company-technical",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/3M_wordmark.svg/375px-3M_wordmark.svg.png"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "ABBVIE",
+        "link": "https://www.investing.com/equities/abbvie-inc-technical",
+        "image": "https://companieslogo.com/img/orig/ABBV-43b0eee3.png?t=1720244490"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Acciona",
+        "link": "https://www.investing.com/equities/acciona-technical",
+        "image": "https://companieslogo.com/img/orig/ANA.MC-bf3aba10.png?t=1720244490"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Ackermans",
+        "link": "https://www.investing.com/equities/ackermans-technical",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Ackermans_Logo.svg"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Adidas",
+        "link": "https://www.investing.com/equities/adidas-technical",
+        "image": "https://companieslogo.com/img/orig/ADS.DE-f8ebdd97.png?t=1720244490"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "AMD",
+        "link": "https://www.investing.com/equities/amd-technical",
+        "image": "https://companieslogo.com/img/orig/AMD-ee5b4684.png?t=1720244490"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Aegon",
+        "link": "https://www.investing.com/equities/aegon-technical",
+        "image": "https://webtrader.capitagains.com/assets/images/if/default.png"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Ageas",
+        "link": "https://www.investing.com/equities/ageas-technical",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ageas.svg/250px-Ageas.svg.png"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Airbnb",
+        "link": "https://www.investing.com/equities/airbnb-technical",
+        "image": "https://companiesmarketcap.com/img/company-logos/64/ABNB.png"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Airbus SE",
+        "link": "https://www.investing.com/equities/airbus-se-technical",
+        "image": "https://companieslogo.com/img/orig/AIR.PA-9f3a3975.png?t=1720244490"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Alcoa",
+        "link": "https://www.investing.com/equities/alcoa-technical",
+        "image": "https://companieslogo.com/img/orig/AA-e12a86d2.png?t=1720244490"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Alibaba",
+        "link": "https://www.investing.com/equities/alibaba-technical",
+        "image": "https://companieslogo.com/img/orig/BABA-2884ac04.png?t=1720244490"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Allianz",
+        "link": "https://www.investing.com/equities/allianz-technical",
+        "image": "https://companieslogo.com/img/orig/ALV.DE-78cd6600.png?t=1720244490"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Amazon",
+        "link": "https://www.investing.com/equities/amazon-technical",
+        "image": "https://companieslogo.com/img/orig/AMZN-e9f942e4.png?t=1722944001"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "AmEx",
+        "link": "https://www.investing.com/equities/american-express-technical",
+        "image": "https://companieslogo.com/img/orig/AXP-630b1f5e.png?t=1720244490"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "American Tower",
+        "link": "https://www.investing.com/equities/american-tower-technical",
+        "image": "https://companieslogo.com/img/orig/AMT-1d871197.png?t=1720244490"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Amgen",
+        "link": "https://www.investing.com/equities/amgen-technical",
+        "image": "https://companieslogo.com/img/orig/AMGN-10e15ed0.png?t=1720244490"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Apple",
+        "link": "https://www.investing.com/equities/apple-technical",
+        "image": "https://companieslogo.com/img/orig/AAPL-bf1a4314.png?t=1720244490"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "ARM",
+        "link": "https://www.investing.com/equities/arm-technical",
+        "image": "https://webtrader.capitagains.com/assets/images/if/default.png"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "ASML",
+        "link": "https://www.investing.com/equities/asml-technical",
+        "image": "https://companieslogo.com/img/orig/ASML-14ceb350.png?t=1720244490"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "AT&T",
+        "link": "https://www.investing.com/equities/att-technical",
+        "image": "https://companieslogo.com/img/orig/T-cec8a3f9.png?t=1720244494"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "AXA",
+        "link": "https://www.investing.com/equities/axa-technical",
+        "image": "https://companieslogo.com/img/orig/CS.PA-a734d36d.png?t=1720244491"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "BAE",
+        "link": "https://www.investing.com/equities/bae-systems-technical",
+        "image": "https://companieslogo.com/img/orig/BA.L-af80160a.png?t=1720244490"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Baidu",
+        "link": "https://www.investing.com/equities/baidu-technical",
+        "image": "https://companieslogo.com/img/orig/BIDU-4322f316.png?t=1720244491"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Baker Hughes",
+        "link": "https://www.investing.com/equities/baker-hughes-technical",
+        "image": "https://companieslogo.com/img/orig/BKR-2eb33376.png?t=1720244491"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Santander",
+        "link": "https://www.investing.com/equities/santander-technical",
+        "image": "https://companieslogo.com/img/orig/SAN-8a4d0f73.png?t=1720244493"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "BofA",
+        "link": "https://www.investing.com/equities/bank-of-america-technical",
+        "image": "https://companieslogo.com/img/orig/BAC-e7995069.png?t=1720244490"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Barclays",
+        "link": "https://www.investing.com/equities/barclays-technical",
+        "image": "https://companieslogo.com/img/orig/BCS-745d30bf.png?t=1720244491"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Bayer",
+        "link": "https://www.investing.com/equities/bayer-technical",
+        "image": "https://companieslogo.com/img/orig/BAYN.DE-914e9500.png?t=1720244490"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "BBVA",
+        "link": "https://www.investing.com/equities/bbva-technical",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BBVA_2019.svg/1280px-BBVA_2019.svg.png"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Berkshire",
+        "link": "https://www.investing.com/equities/berkshire-hathaway-technical",
+        "image": "https://companieslogo.com/img/orig/BRK-B-25f11589.png?t=1720244490"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Best Buy",
+        "link": "https://www.investing.com/equities/best-buy-technical",
+        "image": "https://companieslogo.com/img/orig/BBY-412f9d6d.png?t=1720244490"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Biogen",
+        "link": "https://www.investing.com/equities/biogen-technical",
+        "image": "https://companieslogo.com/img/orig/BIIB-c54e2f33.png?t=1720244491"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "BioNTech",
+        "link": "https://www.investing.com/equities/biontech-technical",
+        "image": "https://companieslogo.com/img/orig/BNTX-0d28c77b.png?t=1722311534"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "BlackRock",
+        "link": "https://www.investing.com/equities/blackrock-technical",
+        "image": "https://companieslogo.com/img/orig/BLK-c62bf4b8.png?t=1720244491"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "BMW",
+        "link": "https://www.investing.com/equities/bmw-technical",
+        "image": "https://companieslogo.com/img/orig/BMW.DE-56e4d00d.png?t=1720244491"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "BNP",
+        "link": "https://www.investing.com/equities/bnp-paribas-technical",
+        "image": "https://companieslogo.com/img/orig/BNP.PA-75daacb0.png?t=1720244491"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Boeing",
+        "link": "https://www.investing.com/equities/boeing-technical",
+        "image": "https://companieslogo.com/img/orig/BA-fb24e03c.png?t=1720244490"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Broadcom",
+        "link": "https://www.investing.com/equities/broadcom-technical",
+        "image": "https://companieslogo.com/img/orig/AVGO-ceb477a4.png?t=1722952492"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Capgemini",
+        "link": "https://www.investing.com/equities/capgemini-technical",
+        "image": "https://companieslogo.com/img/orig/CAP.PA-9b4110b0.png?t=1720244491"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Carrefour",
+        "link": "https://www.investing.com/equities/carrefour-technical",
+        "image": "https://companieslogo.com/img/orig/CA.PA-eef56ff6.png?t=1720244491"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Caterpillar",
+        "link": "https://www.investing.com/equities/caterpillar-technical",
+        "image": "https://companieslogo.com/img/orig/CAT-bb6413e4.png?t=1720244491"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Chevron",
+        "link": "https://www.investing.com/equities/chevron-technical",
+        "image": "https://companieslogo.com/img/orig/CVX_BIG-725fb1f4.png?t=1720244491"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Cisco",
+        "link": "https://www.investing.com/equities/cisco-technical",
+        "image": "https://companieslogo.com/img/orig/CSCO-187e9f61.png?t=1728111511"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Citigroup",
+        "link": "https://www.investing.com/equities/citigroup-technical",
+        "image": "https://companieslogo.com/img/orig/C-9c2e2afb.png?t=1720244491"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Coca-Cola",
+        "link": "https://www.investing.com/equities/coca-cola-technical",
+        "image": "https://companieslogo.com/img/orig/KO-b23a2a5e.png?t=1720244492"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Commerzbank",
+        "link": "https://www.investing.com/equities/commerzbank-technical",
+        "image": "https://companieslogo.com/img/orig/CBK.F-2e335f15.png?t=1720244491"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "ConocoPhillips",
+        "link": "https://www.investing.com/equities/conocophillips-technical",
+        "image": "https://companieslogo.com/img/orig/COP-8c03daa5.png?t=1720244491"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Constellation",
+        "link": "https://www.investing.com/equities/constellation-technical",
+        "image": "https://webtrader.capitagains.com/assets/images/if/default.png"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Crédit Agricole",
+        "link": "https://www.investing.com/equities/credit-agricole-technical",
+        "image": "https://webtrader.capitagains.com/assets/images/if/LVMH.png"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Credit Suisse",
+        "link": "https://www.investing.com/equities/credit-suisse-technical",
+        "image": "https://companieslogo.com/img/orig/CS-353696c1.png?t=1720244491"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Crown Castle",
+        "link": "https://www.investing.com/equities/crown-castle-technical",
+        "image": "https://companieslogo.com/img/orig/CCI-93fc946e.png?t=1720244491"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Daimler",
+        "link": "https://www.investing.com/equities/daimler-technical",
+        "image": "https://companieslogo.com/img/orig/DAI.DE-34e92f6e.png?t=1720244491"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Deutsche Bank",
+        "link": "https://www.investing.com/equities/deutsche-bank-technical",
+        "image": "https://companieslogo.com/img/orig/DB-42fe45aa.png?t=1720244491"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Deutsche Post",
+        "link": "https://www.investing.com/equities/deutsche-post-technical",
+        "image": "https://companieslogo.com/img/orig/DHL.DE-8c515c8f.png?t=1720244491"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Diageo",
+        "link": "https://www.investing.com/equities/diageo-technical",
+        "image": "https://companieslogo.com/img/orig/DEO-cc2d02ec.png?t=1720244491"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Disney",
+        "link": "https://www.investing.com/equities/disney-technical",
+        "image": "https://companieslogo.com/img/orig/DIS-b016b22b.png?t=1727153862"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Domino’s Pizza",
+        "link": "https://www.investing.com/equities/dominos-pizza-technical",
+        "image": "https://companieslogo.com/img/orig/DPZ-9c373038.png?t=1720244491"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "eBay",
+        "link": "https://www.investing.com/equities/ebay-technical",
+        "image": "https://companieslogo.com/img/orig/EBAY-a442b3a2.png?t=1720244491"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Eli Lilly",
+        "link": "https://www.investing.com/equities/eli-lilly-technical",
+        "image": "https://companieslogo.com/img/orig/LLY_BIG-4710fb3c.png?t=1722952494"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "ENI",
+        "link": "https://www.investing.com/equities/eni-technical",
+        "image": "https://upload.wikimedia.org/wikipedia/de/thumb/8/8a/Logo_ENI.svg/1200px-Logo_ENI.svg.png"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Equinor",
+        "link": "https://www.investing.com/equities/equinor-technical",
+        "image": "https://companieslogo.com/img/orig/EQNR-ab4fcb91.png?t=1720244491"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Exxon Mobil",
+        "link": "https://www.investing.com/equities/exxon-mobil-technical",
+        "image": "https://companieslogo.com/img/orig/XOM-52f55a13.png?t=1722952501"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Facebook",
+        "link": "https://www.investing.com/equities/facebook-technical",
+        "image": "https://companieslogo.com/img/orig/FB-2d2223ad.png?t=1720244491"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "FedEx",
+        "link": "https://www.investing.com/equities/fedex-technical",
+        "image": "https://companieslogo.com/img/orig/FDX_BIG-6371a0f3.png?t=1720244491"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Ferrari",
+        "link": "https://www.investing.com/equities/ferrari-technical",
+        "image": "https://companieslogo.com/img/orig/RACE-acd268af.png?t=1720244493"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "First Solar",
+        "link": "https://www.investing.com/equities/first-solar-technical",
+        "image": "https://companieslogo.com/img/orig/FSLR_BIG-065b5998.png?t=1720244491"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Fisker",
+        "link": "https://www.investing.com/equities/fisker-technical",
+        "image": "https://companieslogo.com/img/orig/FSR-419a1e16.png?t=1720244491"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Ford Motor",
+        "link": "https://www.investing.com/equities/ford-motor-technical",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ford_logo_flat.svg/2560px-Ford_logo_flat.svg.png"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "General Dynamics",
+        "link": "https://www.investing.com/equities/general-dynamics-technical",
+        "image": "https://companieslogo.com/img/orig/GD-28d1f36f.png?t=1720244491"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "General Electric",
+        "link": "https://www.investing.com/equities/general-electric-technical",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/General_Electric_logo.svg/1200px-General_Electric_logo.svg.png"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Gilead Sciences",
+        "link": "https://www.investing.com/equities/gilead-sciences-technical",
+        "image": "https://upload.wikimedia.org/wikipedia/de/thumb/5/55/Gilead_Sciences_logo.svg/1200px-Gilead_Sciences_logo.svg.png"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "GlaxoSmithKline",
+        "link": "https://www.investing.com/equities/glaxosmithkline-technical",
+        "image": "https://companieslogo.com/img/orig/GSK-8c33bc98.png?t=1720244492"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Google",
+        "link": "https://www.investing.com/equities/google-technical",
+        "image": "https://companieslogo.com/img/orig/google-9646e5e7.png?t=1720244494"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Goldman Sachs",
+        "link": "https://www.investing.com/equities/goldman-sachs-technical",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Goldman_Sachs.svg/800px-Goldman_Sachs.svg.png"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Henkel",
+        "link": "https://www.investing.com/equities/henkel-technical",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Henkel-Logo.svg"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Home Depot",
+        "link": "https://www.investing.com/equities/home-depot-technical",
+        "image": "https://images.squarespace-cdn.com/content/v1/5d0d78911f2ac70001401b6b/1567025441384-M42CIDS7H8IJZ0VBT7FO/homedepot.png"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "HP Inc.",
+        "link": "https://www.investing.com/equities/hp-inc-technical",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HP_logo_2012.svg/145px-HP_logo_2012.svg.png"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "HSBC",
+        "link": "https://www.investing.com/equities/hsbc-technical",
+        "image": "https://companieslogo.com/img/orig/HSBC-9c9da987.png?t=1720244492"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "IBM",
+        "link": "https://www.investing.com/equities/ibm-technical",
+        "image": "https://companieslogo.com/img/orig/IBM-57502b16.png?t=1720244492"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Intel",
+        "link": "https://www.investing.com/equities/intel-technical",
+        "image": "https://companieslogo.com/img/orig/INTC-12074943.png?t=1720244492"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "J&J",
+        "link": "https://www.investing.com/equities/johnson-johnson-technical",
+        "image": "https://www.jnjmedtech.com/sites/default/files/styles/crop_presets/public/news_image/hero_image/2024-04/JJ_Logo_Stacked_Red_RGB.png?itok"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "JPMorgan",
+        "link": "https://www.investing.com/equities/jpmorgan-technical",
+        "image": "https://companieslogo.com/img/orig/JPM-6b337108.png?t=1720244492"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Kering",
+        "link": "https://www.investing.com/equities/kering-technical",
+        "image": "https://companieslogo.com/img/orig/KER.PA-82be7e40.png?t=1720244492"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "L’Oréal",
+        "link": "https://www.investing.com/equities/loreal-technical",
+        "image": "https://companieslogo.com/img/orig/OR.PA-99c0d360.png?t=1720244493"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Li Auto",
+        "link": "https://www.investing.com/equities/li-auto-technical",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Li_Auto_logo.png/1200px-Li_Auto_logo.png"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "LVMH",
+        "link": "https://www.investing.com/equities/lvmh-technical",
+        "image": "https://companieslogo.com/img/orig/MC.PA-e4d57ba5.png?t=1720244492"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Mastercard",
+        "link": "https://www.investing.com/equities/mastercard-technical",
+        "image": "https://companieslogo.com/img/orig/MA-c8ce4564.png?t=1724308669"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "McDonald's",
+        "link": "https://www.investing.com/equities/mcdonalds-technical",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/1200px-McDonald%27s_Golden_Arches.svg.png"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Microsoft",
+        "link": "https://www.investing.com/equities/microsoft-technical",
+        "image": "https://companieslogo.com/img/orig/MSFT-a203b22d.png?t=1722952497"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Moderna",
+        "link": "https://www.investing.com/equities/moderna-technical",
+        "image": "https://companieslogo.com/img/orig/MRNA-723e7c1a.png?t=1720244492"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Netflix",
+        "link": "https://www.investing.com/equities/netflix-technical",
+        "image": "https://companieslogo.com/img/orig/NFLX-7466b597.png?t=1720244493"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "NextEra Energy",
+        "link": "https://www.investing.com/equities/nextera-energy-technical",
+        "image": "https://companieslogo.com/img/orig/NEE-84769d68.png?t=1720244493"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Nike",
+        "link": "https://www.investing.com/equities/nike-technical",
+        "image": "https://companieslogo.com/img/orig/NKE-0c8add60.png?t=1720244493"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "NIO",
+        "link": "https://www.investing.com/equities/nio-technical",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/NIO_logo.svg"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Nokia",
+        "link": "https://www.investing.com/equities/nokia-technical",
+        "image": "https://companieslogo.com/img/orig/NOK-3138a490.png?t=1720244493"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Nvidia",
+        "link": "https://www.investing.com/equities/nvidia-technical",
+        "image": "https://companieslogo.com/img/orig/NVDA-220e1e03.png?t=1722952498"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Oracle",
+        "link": "https://www.investing.com/equities/oracle-technical",
+        "image": "https://companieslogo.com/img/orig/ORCL-d5a587ae.png?t=1720244493"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Palantir",
+        "link": "https://www.investing.com/equities/palantir-technical",
+        "image": "https://companieslogo.com/img/orig/PLTR-236711ab.png?t=1720244493"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "PayPal",
+        "link": "https://www.investing.com/equities/paypal-technical",
+        "image": "https://companieslogo.com/img/orig/PYPL-3570673e.png?t=1720244493"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "PepsiCo",
+        "link": "https://www.investing.com/equities/pepsico-technical",
+        "image": "https://companieslogo.com/img/orig/PEP-a33c9cf1.png?t=1720244493"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Pfizer",
+        "link": "https://www.investing.com/equities/pfizer-technical",
+        "image": "https://companieslogo.com/img/orig/PFE-749aeae5.png?t=1720244493"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Philip Morris",
+        "link": "https://www.investing.com/equities/philip-morris-technical",
+        "image": "https://companieslogo.com/img/orig/PM-9b5fa1ae.png?t=1720244493"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Phillips 66",
+        "link": "https://www.investing.com/equities/phillips66-technical",
+        "image": "https://companieslogo.com/img/orig/PSX-dfae59b5.png?t=1720244493"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Procter & Gamble",
+        "link": "https://www.investing.com/equities/procter-gamble-technical",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Procter_%26_Gamble_logo.svg"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Qualcomm",
+        "link": "https://www.investing.com/equities/qualcomm-technical",
+        "image": "https://companieslogo.com/img/orig/QCOM-515e1eda.png?t=1720244493"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Randstad",
+        "link": "https://www.investing.com/equities/randstad-technical",
+        "image": "https://companieslogo.com/img/orig/RAND.AS-7daba6f1.png?t=1720244493"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Renault",
+        "link": "https://www.investing.com/equities/renault-technical",
+        "image": "https://companieslogo.com/img/orig/RNO.PA-ae4e831d.png?t=1720244493"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Rio Tinto",
+        "link": "https://www.investing.com/equities/rio-tinto-technical",
+        "image": "https://companieslogo.com/img/orig/RIO-48809895.png?t=1720244493"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Roche",
+        "link": "https://www.investing.com/equities/roche-technical",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hoffmann-La_Roche_logo.svg/1200px-Hoffmann-La_Roche_logo.svg.png"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Sanofi",
+        "link": "https://www.investing.com/equities/sanofi-technical",
+        "image": "https://companieslogo.com/img/orig/SNY-283a0d12.png?t=1720244494"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "SAP",
+        "link": "https://www.investing.com/equities/sap-technical",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1280px-SAP_2011_logo.svg.png"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Schneider Electric",
+        "link": "https://www.investing.com/equities/schneider-electric-technical",
+        "image": "https://companieslogo.com/img/orig/SU.PA-386facc5.png?t=1720244494"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Siemens",
+        "link": "https://www.investing.com/equities/siemens-technical",
+        "image": "https://companieslogo.com/img/orig/SIE.DE-0e74c1e5.png?t=1720244493"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Snapchat",
+        "link": "https://www.investing.com/equities/snapchat-technical",
+        "image": "https://images.ctfassets.net/o1znirz7lzo4/5pzcWgztGk8xS7FtDSmavu/dd6fed83867577aefff9e1c211716534/GetinTouch.jpg"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Societe Generale",
+        "link": "https://www.investing.com/equities/societe-generale-technical",
+        "image": "https://companieslogo.com/img/orig/GLE.PA.D-91ce0f9a.png?t=1720244492"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Starbucks",
+        "link": "https://www.investing.com/equities/starbucks-technical",
+        "image": "https://companieslogo.com/img/orig/SBUX_BIG-b83bd76c.png?t=1720244493"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Tesla",
+        "link": "https://www.investing.com/equities/tesla-technical",
+        "image": "https://companieslogo.com/img/orig/TSLA-6da550e5.png?t=1722952499"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Toyota",
+        "link": "https://www.investing.com/equities/toyota-technical",
+        "image": "https://www.toyota.com.cy/content/dam/logos/large-logo-toyota.jpeg"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Uber",
+        "link": "https://www.investing.com/equities/uber-technical",
+        "image": "https://companieslogo.com/img/orig/UBER-c9e8b94b.png?t=1720244494"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "UBS",
+        "link": "https://www.investing.com/equities/ubs-technical",
+        "image": "https://companieslogo.com/img/orig/UBS-c7036cca.png?t=1720244494"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Visa",
+        "link": "https://www.investing.com/equities/visa-technical",
+        "image": "https://companieslogo.com/img/orig/V-05214186.png?t=1720244494"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Volkswagen",
+        "link": "https://www.investing.com/equities/volkswagen-technical",
+        "image": "https://companieslogo.com/img/orig/VOW3.DE-672bac7c.png?t=1720244494"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Walmart",
+        "link": "https://www.investing.com/equities/walmart-technical",
+        "image": "https://companieslogo.com/img/orig/WMT-0d8ecd74.png?t=1722952500"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Zoom",
+        "link": "https://www.investing.com/equities/zoom-technical",
+        "image": "https://companieslogo.com/img/orig/ZM-b326e02f.png?t=1720244494"
+    },
+    {
+        "assetClass": "Stocks",
+        "name": "Zurich Insurance",
+        "link": "https://www.investing.com/equities/zurich-insurance-technical",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Zurich_Insurance_Group_logo.svg"
+    },
+
+    {
+        "assetClass": "Energies",
+        "name": "Brent Oil",
+        "link": "https://www.investing.com/commodities/brent-oil-technical",
+        "image": "https://webtrader.capitagains.com/assets/images/if/BRENT.png"
+    },
+    {
+        "assetClass": "Energies",
+        "name": "Natural Gas",
+        "link": "https://www.investing.com/commodities/natural-gas-technical",
+        "image": "https://webtrader.capitagains.com/assets/images/if/NGAS.png"
+    },
+    {
+        "assetClass": "Energies",
+        "name": "Crude Oil",
+        "link": "https://www.investing.com/commodities/crude-oil-technical",
+        "image": "https://webtrader.capitagains.com/assets/images/if/CL.png"
+    },
+
+    {
+        "assetClass": "Metals",
+        "name": "XPDUSD",
+        "link": "https://www.investing.com/currencies/xpd-usd-technical",
+        "image": "https://webtrader.capitagains.com/assets/images/if/XPDUSD.png"
+    },
+    {
+        "assetClass": "Metals",
+        "name": "XPTUSD",
+        "link": "https://www.investing.com/currencies/xpt-usd-technical",
+        "image": "https://webtrader.capitagains.com/assets/images/if/XPTUSD.png"
+    },
+    {
+        "assetClass": "Metals",
+        "name": "XAGUSD",
+        "link": "https://www.investing.com/currencies/xag-usd-technical",
+        "image": "https://webtrader.capitagains.com/assets/images/if/XAGUSD.png"
+    },
+    {
+        "assetClass": "Metals",
+        "name": "XAUUSD",
+        "link": "https://www.investing.com/currencies/xau-usd-technical",
+        "image": "https://webtrader.capitagains.com/assets/images/if/XAUUSD.png"
+    },
+    {
+        "assetClass": "Metals",
+        "name": "COPPER",
+        "link": "https://www.investing.com/commodities/copper-technical",
+        "image": "https://webtrader.capitagains.com/assets/images/if/COPPER.png"
+    },
+
+    {
+        "assetClass": "Commodities",
+        "name": "COCOA",
+        "link": "https://www.investing.com/commodities/us-cocoa-technical",
+        "image": "https://webtrader.capitagains.com/assets/images/if/COCOA.png"
+    },
+    {
+        "assetClass": "Commodities",
+        "name": "COFFEE",
+        "link": "https://www.investing.com/commodities/us-coffee-technical",
+        "image": "https://webtrader.capitagains.com/assets/images/if/COFFEE.png"
+    },
+    {
+        "assetClass": "Commodities",
+        "name": "CORNSPOT",
+        "link": "https://www.investing.com/commodities/us-corn-technical",
+        "image": "https://webtrader.capitagains.com/assets/images/if/default.png"
+    },
+    {
+        "assetClass": "Commodities",
+        "name": "COTTONSPOT",
+        "link": "https://www.investing.com/commodities/us-cotton-no1-technical",
+        "image": "https://webtrader.capitagains.com/assets/images/if/default.png"
+    },
+    {
+        "assetClass": "Commodities",
+        "name": "SUGARSPOT",
+        "link": "https://www.investing.com/commodities/us-sugar-no1-technical",
+        "image": "https://webtrader.capitagains.com/assets/images/if/default.png"
+    },
+    {
+        "assetClass": "Commodities",
+        "name": "WHEATSPOT",
+        "link": "https://www.investing.com/commodities/us-wheat-technical",
+        "image": "https://webtrader.capitagains.com/assets/images/if/default.png"
+    },
+
+    {
+        "assetClass": "Indices",
+        "name": "S&P500 Futures",
+        "link": "https://www.investing.com/indices/us-spx-500-futures-technical",
+        "image": "https://companieslogo.com/img/orig/SPGI-23d836fa.png?t=1720244494"
+    },
+    {
+        "assetClass": "Indices",
+        "name": "Nasdaq Futures",
+        "link": "https://www.investing.com/indices/nasdaq-futures-technical",
+        "image": "https://companieslogo.com/img/orig/NDAQ-1a768cf8.png?t=1720244493"
+    },
+    {
+        "assetClass": "Indices",
+        "name": "Dow Jones Futures",
+        "link": "https://www.investing.com/indices/dow-jones-futures-technical",
+        "image": "https://companieslogo.com/img/orig/dowjone-company-16fc36ab.png?t=1720244494"
+    },
+    {
+        "assetClass": "Indices",
+        "name": "VIX Futures",
+        "link": "https://www.investing.com/indices/vix-futures-technical",
+        "image": "https://upload.wikimedia.org/wikipedia/en/f/f0/ViX_Logo.png"
+    },
+    {
+        "assetClass": "Indices",
+        "name": "FTSE Futures",
+        "link": "https://www.investing.com/indices/ftse-100-futures-technical",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/FTSE_100_logo.svg/1280px-FTSE_100_logo.svg.png"
+    },
+    {
+        "assetClass": "Indices",
+        "name": "DAX Futures",
+        "link": "https://www.investing.com/indices/dax-futures-technical",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/DAX-logo.svg/1280px-DAX-logo.svg.png"
+    },
+
+    {
+        "assetClass": "ETFs",
+        "name": "Invesco QQQ",
+        "link": "https://www.investing.com/etfs/invesco-qqq-technical",
+        "image": "https://s3-symbol-logo.tradingview.com/invesco--600.png"
+    },
+    {
+        "assetClass": "ETFs",
+        "name": "iShares BTC Trust",
+        "link": "https://www.investing.com/etfs/ishares-btc-technical",
+        "image": "https://webtrader.capitagains.com/assets/images/if/default.png"
+    },
+    {
+        "assetClass": "ETFs",
+        "name": "iShares EM",
+        "link": "https://www.investing.com/etfs/ishares-emerging-markets-technical",
+        "image": "https://webtrader.capitagains.com/assets/images/if/default.png"
+    },
+    {
+        "assetClass": "ETFs",
+        "name": "iShares Semiconductors",
+        "link": "https://www.investing.com/etfs/ishares-semiconductors-technical",
+        "image": "https://webtrader.capitagains.com/assets/images/if/default.png"
+    },
+    {
+        "assetClass": "ETFs",
+        "name": "SPDR Energy",
+        "link": "https://www.investing.com/etfs/spdr-energy-technical",
+        "image": "https://webtrader.capitagains.com/assets/images
